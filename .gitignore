@@ -1,1 +1,4 @@
 iris.pdf
+data/pedestrians128x64/*
+data/pedestrians_neg/*
+opencv-machine-learning-master.zip
